@@ -76,7 +76,7 @@ This project doesn't require any prequesites or dependenscies and you can view i
    ```
 2. Go to project folder
    ```sh
-   cd "Bankist Landing Page"
+   cd "Bankist Website"
    ```
 3. open `index.html` file
 
