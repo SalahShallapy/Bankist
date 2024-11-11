@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./img/icon.png" alt="Logo" width="80" height="80">
+    <img src="./Imgs/icon.png" alt="Logo" width="80" height="80">
   <h1 align="center">BANKIST - App</h1>
 
   <p align="center">
