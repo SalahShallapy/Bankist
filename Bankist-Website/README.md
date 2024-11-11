@@ -8,7 +8,7 @@
 <br />
 <div align="center">
     <img src="./img/icon.png" alt="Logo" height="80">
-    <h1> align="center">BANKIST - Website</h1>
+    <h1 align="center">BANKIST - Website</h1>
 
   <p align="center">
     <a href="https://bankist-dom.netlify.app/">View Demo</a>
