@@ -70,7 +70,7 @@ This project doesn't require any prequesites or dependenscies and you can view i
 | Owner             | **UserName** | **Pin** |
 | ----------------- | ------------ | ------- |
 | Jonas Schmedtmann | js           | 1111    |
-| Jessica Davis     | js           | 2222    |
+| Jessica Davis     | jd           | 2222    |
 
 > To get a local copy up and running follow these simple steps :
 
