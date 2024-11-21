@@ -4,6 +4,6 @@
 
 # Bankist
 
-## [Bankist App](https://github.com/SalahShallapy/Bankist/tree/master/Bankist-App)
+## [BANKIST App](https://github.com/SalahShallapy/Bankist/tree/master/Bankist-App)
 
 ## [BANKIST Website](https://github.com/SalahShallapy/Bankist/tree/master/Bankist-Website)
