@@ -13,7 +13,7 @@
   <p align="center">
     <a href="https://bankist-dom.netlify.app/">View Demo</a>
     .
-    <a href="https://github.com/SalahShallapy/Bankist/issues">View Demo</a>
+    <a href="https://github.com/SalahShallapy/Bankist/issues">Report Bug</a>
   </p>
 </div>
 
