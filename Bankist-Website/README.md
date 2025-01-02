@@ -12,8 +12,12 @@
 
   <p align="center">
     <a href="https://bankist-dom.netlify.app/">View Demo</a>
+    .
+    <a href="https://github.com/SalahShallapy/Bankist/issues">View Demo</a>
   </p>
 </div>
+
+Bankist is a modern and interactive landing page showcasing advanced front-end development skills. This project implements smooth scrolling, lazy loading, tabbed content, and a functional image slider. It serves as an excellent demonstration of DOM manipulation, event-driven programming, and optimized UI/UX practices.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -37,38 +41,63 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-Simple banking home page with these features :
-
-- Menu fade animation
-- smooth-scrolling
-- Tabbed component
-- Reveal sections
-- Slider
-- Lazy loading images
+## Project Overview
 
 ![Bankist preview](./img/overview.png)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Features
 
-### Built With
+- Modal window:
 
-- HTML
-- CSS
-- JavaScript
+  - Displays a modal window for information or actions.
+  - Opens on button click, closes on overlay click or Escape key.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Smooth Scrolling:
 
-<!-- GETTING STARTED -->
+  - Implements smooth scrolling to sections using native DOM methods.
 
-## Getting Started
+- Page Navigation:
 
-This project doesn't require any prequesites or dependenscies and you can view it online using this [demo](https://bankist-dom.netlify.app/).
+  - Enables navigation to specific sections by clicking links in the navigation bar.
 
-> To get a local copy up and running follow these simple steps :
+- Tabbed Components:
 
-### Installation
+  - Switch between content areas using tabbed navigation with active states.
+
+- Sticky Navigation:
+
+  - Uses Intersection Observer API to create a sticky header when scrolling past the hero section.
+
+- Section Reveal on Scroll:
+
+  - Unveils content sections dynamically as they enter the viewport.
+
+- Lazy Loading Images:
+
+  - Loads high-resolution images just before they appear in the viewport to optimize performance.
+
+- Image Slider:
+
+  - Includes a slider with navigation buttons and keyboard control.
+  - Supports dot-based navigation to jump between slides.
+
+- Menu Hover Effects:
+  - Highlights the navigation link being hovered while dimming others.
+
+## Project Structure
+
+```
+Bankist-Website
+│      .prettierrc
+│      index.html
+│      README.md
+│      script.js
+│      style.css
+│
+└─── img -----> all images
+```
+
+## Installation
 
 1. Clone the repo
    ```sh
@@ -78,11 +107,11 @@ This project doesn't require any prequesites or dependenscies and you can view i
    ```sh
    cd "Bankist Website"
    ```
-3. open `index.html` file
+3. Open the Project
+   Navigate to the project folder and open the index.html file in your preferred web browser to start playing.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
+4. Requirements
+   No additional dependencies are required. The game runs entirely in the browser using vanilla JavaScript, HTML, CSS and you can view it online using this [demo](https://bankist-dom.netlify.app/)
 
 ## Contributing
 
