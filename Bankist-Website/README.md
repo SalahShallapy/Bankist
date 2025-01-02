@@ -19,26 +19,6 @@
 
 Bankist is a modern and interactive landing page showcasing advanced front-end development skills. This project implements smooth scrolling, lazy loading, tabbed content, and a functional image slider. It serves as an excellent demonstration of DOM manipulation, event-driven programming, and optimized UI/UX practices.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## Project Overview
@@ -110,8 +90,7 @@ Bankist-Website
 3. Open the Project
    Navigate to the project folder and open the index.html file in your preferred web browser to start playing.
 
-4. Requirements
-   No additional dependencies are required. The game runs entirely in the browser using vanilla JavaScript, HTML, CSS and you can view it online using this [demo](https://bankist-dom.netlify.app/)
+4. No additional dependencies are required. The game runs entirely in the browser using vanilla JavaScript, HTML, CSS and you can view it online using this [demo](https://bankist-dom.netlify.app/)
 
 ## Contributing
 
