@@ -12,38 +12,14 @@
 
   <p align="center">
     <a href="https://bankist.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/Bankist/issues">Report Bug</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#flowchart">Logic & Plan (flowchart)</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#users">Users</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
+Bankist is a modern banking application that allows users to manage their accounts efficiently with features such as balance tracking, transaction history, money transfers, and loans. Designed with a simple and intuitive user interface, Bankist ensures a seamless experience for its users.
 
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-Simple banking-UserPage for tracking transactions and transfer money to other users and request loans.
-
-**You should use <a href="#users">UserNames</a> to use app features ( Transfer, loan, delete )**
+## Project Overview
 
 ![Bankist preview](./Imgs/overview.png)
 
@@ -51,19 +27,48 @@ Simple banking-UserPage for tracking transactions and transfer money to other us
 
 <img src='./Imgs/Bankist-flowchart.png' alt='flowchart' >
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Features
 
-### Built With
+1.  Login
 
-- HTML
-- CSS
-- JavaScript
+- Enter your username (first letters of your name, lowercase).
+- Enter your PIN to securely log in.
 
-<!-- GETTING STARTED -->
+2.  Transfer Funds
+
+- Enter the recipient's username and the amount to transfer.
+- Click "Transfer" to process the transaction.
+
+3.  Request a Loan
+
+- Enter the desired loan amount and click "Request Loan."
+- The loan will be approved if conditions are met (e.g., at least 10% of the requested amount is in deposits).
+
+4.  Sort Transactions
+
+- Use the "Sort" button to view transactions in ascending or descending order.
+
+5.  Close Account
+
+- Enter your username and PIN in the close account form.
+- Confirm to delete the account permanently.
+
+## Project Structure
+
+```
+Bankist-Website
+│      .prettierrc
+│      index.html
+│      README.md
+│      script.js
+│      style.css
+│
+└─── img -----> all images
+```
 
 ## Getting Started
 
-This project doesn't require any prequesites or dependenscies and you can view it online using this [demo](https://bankist.netlify.app/).
+**You should use **UserNames** to use app features ( Transfer, loan, delete )**
 
 ### Users
 
@@ -74,7 +79,7 @@ This project doesn't require any prequesites or dependenscies and you can view i
 
 > To get a local copy up and running follow these simple steps :
 
-### Installation
+## Installation
 
 1. Clone the repo
    ```sh
@@ -84,10 +89,10 @@ This project doesn't require any prequesites or dependenscies and you can view i
    ```sh
    cd "Bankist App"
    ```
-3. open `index.html` file
+3. Open the Project
+   Navigate to the project folder and open the index.html file in your preferred web browser to start playing.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+4. No additional dependencies are required. The game runs entirely in the browser using vanilla JavaScript, HTML, CSS and you can view it online using this [demo](https://bankist.netlify.app/)
 <!-- CONTRIBUTING -->
 
 ## Contributing
