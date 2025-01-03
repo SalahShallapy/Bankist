@@ -63,7 +63,7 @@ Bankist-Website
 │      script.js
 │      style.css
 │
-└─── img -----> all images
+└─── img ------> all images
 ```
 
 ## Getting Started
